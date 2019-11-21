@@ -13,6 +13,11 @@ create-react-app <project name>
 npm i --save react-router-dom
 ```
 
+### styled-components
+```
+npm i --save styled-components
+```
+
 ## Screens
 
 - [ ] Home
